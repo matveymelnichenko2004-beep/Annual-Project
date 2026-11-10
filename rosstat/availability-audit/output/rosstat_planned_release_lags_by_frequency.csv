@@ -1,0 +1,3 @@
+﻿period_frequency,observations,mean_lag_days,median_lag_days,min_lag_days,max_lag_days
+monthly,205,38.985365853658536,34.0,28,71
+quarterly,14,100.42857142857143,101.0,91,107

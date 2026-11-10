@@ -1,0 +1,8 @@
+﻿check,value
+rows_in_master,394
+unique_snapshot_ids,14
+rows_with_planned_date,394
+rows_without_planned_date,0
+rows_without_reference_period,0
+unique_source_urls,14
+planned_day_check_failures,0
